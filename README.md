@@ -1,2 +1,3 @@
-# Project-word_counter
-This is word counter CLI app
+This command-line interface (CLI) word counter is built using TypeScript and Node.js, powered by Inquirer and colorful text provided by Chalk. Simply type directly into the terminal, and the program will provide you with a count of the total words in the input. Perfect for quickly analyzing the word count of documents or text snippets on the go.
+
+Try it yourself by running npx @darshika.dev/word-counter
